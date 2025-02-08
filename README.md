@@ -52,10 +52,10 @@
 ###
 
  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=gotham&preferLogin=false">    
-      <img height=200 alt="Tara-Oliver's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Tara-Oliver?cardType=github&theme=gotham&preferLogin=false" /></a>
+      <img height=200 width=350 alt="Tara-Oliver's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Tara-Oliver?cardType=github&theme=gotham&preferLogin=false" /></a>
 
    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=gotham&preferLogin=false"> 
-      <img height=200 alt="Tara-Oliver's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tara-Oliver&layout=compact&title_color=51bb97&text_color=51bb97&hide_progress=true&theme=transparent" /></a> 
+      <img height=200 width=350 alt="Tara-Oliver's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tara-Oliver&layout=compact&title_color=51bb97&text_color=51bb97&hide_progress=true&theme=transparent" /></a> 
   
   
 
